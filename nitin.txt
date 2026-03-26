@@ -1,9 +1,0 @@
-Hi nitin This is an assignment for github
-My name is nitin
-And i want to become a devops engineer
-Here i am checking git pull working
-Lets check for git fetch
-we are checking is it good
-this is for the assignment
-devops
-ssss
